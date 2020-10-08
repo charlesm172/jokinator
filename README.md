@@ -1,3 +1,8 @@
+# About Jokinator
+This is a project made in React to interface with a [Dad Joke API](https://rapidapi.com/KegenGuyll/api/dad-jokes/details).
+Gets a random joke from the API and displays it to the user, clicking the button will get a new random joke.
+
+# React Information
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
