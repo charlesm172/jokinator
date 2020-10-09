@@ -2,6 +2,9 @@
 This is a project made in React to interface with the [Dad Joke API](https://rapidapi.com/KegenGuyll/api/dad-jokes/details).
 Gets a random joke from the API and displays it to the user, clicking the button will get a new random joke.
 
+## Live Site
+[Link to Netlify Site](https://charlesm172-jokinator.netlify.app/)
+
 # React Information
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
